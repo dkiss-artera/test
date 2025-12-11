@@ -1,1 +1,2 @@
-print('This is the first feature')
+print('This is the first feature\n')
+print('This is the second feature\n')
